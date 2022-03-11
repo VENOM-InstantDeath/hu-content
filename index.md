@@ -1,5 +1,5 @@
 # Index
 
-This is an index written in md.
+<center>This is an index written in md.</center>
 
 
