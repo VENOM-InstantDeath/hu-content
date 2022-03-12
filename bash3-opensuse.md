@@ -6,7 +6,10 @@ En OpenSUSE y los sistemas derivados, el gestor de paquetes es zypper. Zypper es
 <br>
 <center><b><u>Sintaxis</u></b></center>
 <br>
-	zypper [operación] [opciones] [paquete]
+```
+zypper [operación] [opciones] [paquete]
+```
+<br>
 <br>
 Zypper admite el uso de versiones abreviadas de cada una de las operaciones disponibles del gestor, al final de cada sección se indicará cuál es la versión abreviada de cada operación.
 <br>
