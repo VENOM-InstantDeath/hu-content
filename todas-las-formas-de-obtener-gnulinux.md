@@ -1,5 +1,5 @@
 # Todas Las Formas De Obtener GNU/Linux
-<b>By: Darth Venom</b>
+<b>By: Darth Venom - 11/03/2022</b>
 <br>
 <br>
 <center><b>¡Bienvenidos!</b></center>
