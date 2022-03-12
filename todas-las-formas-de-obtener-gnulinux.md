@@ -1,4 +1,5 @@
 # Todas Las Formas De Obtener GNU/Linux
+### By: Darth Venom
 
 <center><b>¡Bienvenidos!</b></center>
 <br>
@@ -48,7 +49,7 @@ Para habilitar interacciones con componentes gráficos se tendrán que instalar 
 <br>
 Si tienes un sistema GNU/Linux y te apetece hacer distro hopping, es decir, ir probando de distro en distro, pero no te agrada la idea de tener que estar particionando el disco, formateando y cambiando entradas en la EFI todo el tiempo, entonces debes echarle un vistazo a LXC.
 <br>
-LXC, o Linux Containers, es una tecnología de virtualización a nivel de sistema operativo; no emula el hardware, sino que sólo corre sistemas operativos usando el kernel anfitrión, corriendo los programas en un espacio de memoria separado.
+LXC o Linux Containers, es una tecnología de virtualización a nivel de sistema operativo; no emula el hardware, sino que sólo corre sistemas operativos usando el kernel anfitrión, corriendo los programas en un espacio de memoria separado.
 <br>
 El punto interesante es que es relativamente sencillo de instalar y configurar y ofrece un sistema completamente funcional que puede ser utilizado para distintos propósitos; por ejemplo, probar programas, experimentar con el sistema de forma segura, o algo más útil e interesante, correr determinados programas demandantes en el contenedor para que al detener el contenedor se liberen totalmente los recursos utilizados por el programa y no queden demonios activos en segundo plano.
 <br>
@@ -57,4 +58,5 @@ El paquete lxd contiene el demonio lxd y el cliente lxc, a través del cual se p
 <br>
 Un aspecto más a destacar es que al igual que en VirtualBox con las máquinas virtuales, lxc soporta "carpetas compartidas", estos son directorios que pueden ser accedidos desde los dos sistemas.
 <br>
-[END]
+<hr>
+El blog ha llegado a su fin. Si tienes dudas puedes contactarme en Discord, soy Kiss_Linux#7802.
