@@ -1,5 +1,5 @@
 # Bash De 0 a 1000 #3 - OpenSUSE
-<b>By: Darth Venom - 11/03/2022</b>
+<b>By: Darth Venom - 12/03/2022</b>
 <br>
 <br>
 En OpenSUSE y los sistemas derivados, el gestor de paquetes es zypper. Zypper es un programa de gestión de paquetes que utiliza la librería libzypp. Este gestor administra paquetes con el formato RPM, al igual que RHEL (Red Hat Enterprise Linux), Fedora y CentOS.
