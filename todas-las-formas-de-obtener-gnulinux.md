@@ -26,7 +26,7 @@ Para hacer un dual boot necesitarás lo mismo que para instalar GNU como sistema
 <br>
 Durante el programa de instalación cuando pregunte cómo quieres instalar el sistema posiblemente haya una opción de instalar junto a otro sistema. Esta opción te permitirá crear un dual boot. Y una opción mejor es la opción de particionado avanzado que siempre se encuentra en esos menúes independientemente de la distribución, pero esta última opción es para usuarios avanzados.
 <br>
-<center><b>Virtual Machine</b></center>
+<center><b>VIRTUAL MACHINE</b></center>
 <br>
 Usar máquinas virtuales es una opción un tanto más segura que las anteriores si no estás convencido de instalar GNU directamente en el disco. Las máquinas virtuales son pseudo-computadoras emuladas por software, es como tener una computadora dentro de tu computadora. El software de los programas de máquinas virtuales emula el hardware usando la tecnología de virtualización, y así es como se puede correr un sistema completo de forma aislada, de una forma en la que todo lo que ocurra en la máquina virtual no afectará al sistema principal.
 <br>
@@ -36,7 +36,7 @@ La máquina incluso emula un disco duro, así que a la hora de seleccionar dónd
 <br>
 Una máquina virtual puede encenderse y apagarse desde la aplicación de virtualización que tengas. Si ya no quieres más la máquina puedes simplemente hacer click derecho en ella y eliminarla. Puedes tener cuantas quieras.
 <br>
-<center><b>Windows Subsystem For Linux (WSL)</b></center>
+<center><b>WINDOWS SUBSYSTEM FOR LINUX (WSL)</b></center>
 <br>
 Existe un método para instalar un sistema GNU/Linux en tu disco y correrlo de forma simultanea junto a Windows sin necesidad de máquinas virtuales ni dual boot. El método consiste en usar WSL (Windows Subsystem For Linux). WSL es una característica opcional de Windows, lo que significa que esta debe ser activada a través de los ajustes del sistema; afortunadamente, hay un artículo en la comunidad que explica cómo activarlo: <a href="http://aminoapps.com/p/0wvap2m">http://aminoapps.com/p/0wvap2m</a>
 <br>
@@ -46,7 +46,7 @@ Tras activar WSL podrás dirigirte a la aplicación de la tienda de Microsoft y 
 <br>
 Para habilitar interacciones con componentes gráficos se tendrán que instalar los paquetes pertinentes para el correcto funcionamiento de: Xorg, un entorno de escritorio (Fluxbox, por ejemplo), y VNC. Para visualizar el escritorio, desde la terminal del sistema GNU/Linux se iniciará un servidor VNC, y desde Windows, usando un cliente de VNC (TigerVNC o RealVNC, por ejemplo) el usuario se conectará al sistema GNU consiguiendo así interactuar de forma gráfica.
 <br>
-<center><b>Linux Containters (LXC)</b></center>
+<center><b>LINUX CONTAINERS (LXC)</b></center>
 <br>
 Si tienes un sistema GNU/Linux y te apetece hacer distro hopping, es decir, ir probando de distro en distro, pero no te agrada la idea de tener que estar particionando el disco, formateando y cambiando entradas en la EFI todo el tiempo, entonces debes echarle un vistazo a LXC.
 <br>
