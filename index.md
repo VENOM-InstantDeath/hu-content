@@ -9,3 +9,9 @@ Los blogs que se listan aquí son blogs que a la fecha no han sido publicados en
 	<li><a href="https://venom-instantdeath.github.io/hu-content/todas-las-formas-de-obtener-gnulinux.html#by-darth-venom">Todas Las Formas De Obtener GNU/Linux</a></li>
 	<li><a href="https://venom-instantdeath.github.io/hu-content/bash3-opensuse.html">Bash De 0 a 1000 #3 - OpenSUSE</a></li>
 </ol>
+<br>
+Lo siguiente es ajeno al índice. Es contenido descargable para gente con la que quiero compartir archivos o contenido.
+<ol>
+	<li><a href="https://venom-instantdeath.github.io/hu-content/redblack.html">Redblack</a></li>
+</ol>
+<br>
