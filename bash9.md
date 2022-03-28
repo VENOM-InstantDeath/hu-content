@@ -1,4 +1,5 @@
 # Bash De 0 a 1000 #9
+<b>By: Darth Venom - 28/03/2022</b>
 <br>
 <br>
 Es bastante común, tanto entre las personas que van iniciándose en la programación o el pentesting como en las personas avanzadas en estos temas, que tengan definiciones erradas sobre lo que es la terminal o lo que es un comando. Es así que este capítulo está enfocado en explicar de forma concisa lo que es la terminal, y cuál es la verdadera definición de "comando". Las definiciones más confusas se suelen encontrar más entre usuarios de GNU/Linux con conocimientos básicos o intermedios; incluso a veces se emplean términos como "la terminal de Debian" o "la terminal de Ubuntu" como si hubiesen "terminales" distintas, o como si Bash fuese "otro Bash" en cada distribución GNU/Linux.
