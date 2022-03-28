@@ -13,6 +13,10 @@ Los blogs que se listan aquí son blogs que a la fecha no han sido publicados en
 Lo siguiente es ajeno al índice. Es contenido descargable para gente con la que quiero compartir archivos o contenido.
 <ol>
 	<li><a href="https://venom-instantdeath.github.io/hu-content/redblack.html">Redblack</a></li>
+<<<<<<< Updated upstream
 	<li><a href="https://venom-instantdeath.github.io/hu-content/darkinstaller.html">DarkInstaller</a></li>
+=======
+	<li><a href="https://venom-instantdeath.github.io/hu-content/darkinstaller.html">Dark</a></li>
+>>>>>>> Stashed changes
 </ol>
 <br>
