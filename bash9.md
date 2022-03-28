@@ -1,4 +1,4 @@
-# Bash::Manejando la Terminal - De 0 a 1000 #9
+# Bash De 0 a 1000 #9
 <br>
 <br>
 Es bastante común, tanto entre las personas que van iniciándose en la programación o el pentesting como en las personas avanzadas en estos temas, que tengan definiciones erradas sobre lo que es la terminal o lo que es un comando. Es así que este capítulo está enfocado en explicar de forma concisa lo que es la terminal, y cuál es la verdadera definición de "comando". Las definiciones más confusas se suelen encontrar más entre usuarios de GNU/Linux con conocimientos básicos o intermedios; incluso a veces se emplean términos como "la terminal de Debian" o "la terminal de Ubuntu" como si hubiesen "terminales" distintas, o como si Bash fuese "otro Bash" en cada distribución GNU/Linux.
@@ -15,7 +15,7 @@ Una shell, en cambio, es un programa cuya función es tomar comandos que el usua
 <br>
 Cuando decimos que abrimos una terminal, lo que abrimos es el emulador de terminal, y luego el emulador de terminal, como habíamos dicho, hace algunos procedimientos y luego abre una shell. Es decir que cuando escribimos comandos, no los interpreta el emulador de terminal, los interpreta la shell. Para entenderlo mejor vea la siguiente imagen que señala los dos elementos visibles de lo que llamamos terminal.
 <br>
-![][media/m1.jpg]
+<img src="media/m1.jpg" alt="">
 <br>
 En esta imagen se puede apreciar los dos componentes visibles de la terminal, el emulador de terminal está señalado en color rojo y es toda la ventana, y dentro de un emulador de terminal se pueden abrir procesos como la shell u otros programas y luego el mismo emulador de terminal conectará dicho proceso al stdin (standard input), stdout (standard output) y stderr (standard error), que es lo que llamamos descriptores de archivos. Cuando decimos que el emulador conecta el proceso a stdin, stdout y stderr puede sonar a chino básico, pero se puede entender como "el emulador le da al proceso el poder de lectura y escritura". Lo anterior significa que el proceso podrá ahora "escribir" que significa que podrá imprimir texto en la ventana del emulador, y "leer" que significa que podrá detectar las teclas que presiona el usuario a través del teclado.
 <br>
