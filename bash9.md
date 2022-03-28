@@ -47,7 +47,7 @@ Los comandos Built-in son aquellos comandos que vienen integrados en la shell, y
 <br>
 <center><i>PROGRAMAS</i></center>
 <br>
-Las shells tienen un órden de análisis en el cual comprueban si lo escrito es un comando o no. Primero las shells suelen buscar si lo ingresado se trata de un [alias|LINK], de un comando built-in, o de un programa. Si la shell no detecta que el comando era un alias o uno built-in va a buscar en unas rutas especiales si hay un programa que tenga el nombre del comando ingresado.
+Las shells tienen un órden de análisis en el cual comprueban si lo escrito es un comando o no. Primero las shells suelen buscar si lo ingresado se trata de un <a href="http://aminoapps.com/p/0dyaux">alias</a>, de un comando built-in, o de un programa. Si la shell no detecta que el comando era un alias o uno built-in va a buscar en unas rutas especiales si hay un programa que tenga el nombre del comando ingresado.
 <br>
 Las anteriormente mencionadas rutas especiales son las que se encuentran contenidas en la variable $PATH. Dentro de ella están las rutas separadas por dos puntos ":".
 <br>
