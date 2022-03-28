@@ -31,7 +31,7 @@ Dentro del emulador el primer proceso que se abre es la shell por defecto (gener
 <br>
 Al principio dije que una terminal era el conjunto de tres elementos, y dos de ellos ya fueron explicados, el emulador y la shell. El elemento que falta es "el driver de terminal" o también conocido como "driver de TTY". El driver de TTY es el controlador responsable de habilitar la conexión a los descriptores de archivos como stdin, stdout y stderr, que es lo que habíamos resumido antes como "el emulador le da al proceso el poder de lectura y escritura". Para que el emulador le conceda al proceso el poder de lectura y escritura tiene que primero conseguir el acceso a los descriptores de archivos, y ese acceso se lo da el driver de TTY. Cuando el emulador llama a la shell, este emulador conecta el proceso de la shell a estos descriptores de archivo, y así es como la shell o cualquier otro proceso puede escribir en la terminal o leer nuestras teclas.
 <br>
-<center><i>ACLARACIONES ADICIONALES</i></center>
+<center><u><i>ACLARACIONES ADICIONALES</i></u></center>
 <br>
 El emulador de terminal es un programa a parte de la shell, y hay muchos emuladores y hay muchas shells que se pueden instalar.
 Así es que podemos afirmar que la terminal no viene con el sistema o con la distribución que use el usuario, sino que son programas que no vienen con la distribución (a excepción de la TTY, que viene incluida en el kernel)
