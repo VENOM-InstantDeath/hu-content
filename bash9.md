@@ -17,7 +17,9 @@ Una shell, en cambio, es un programa cuya función es tomar comandos que el usua
 <br>
 Cuando decimos que abrimos una terminal, lo que abrimos es el emulador de terminal, y luego el emulador de terminal, como habíamos dicho, hace algunos procedimientos y luego abre una shell. Es decir que cuando escribimos comandos, no los interpreta el emulador de terminal, los interpreta la shell. Para entenderlo mejor vea la siguiente imagen que señala los dos elementos visibles de lo que llamamos terminal.
 <br>
-<img src="media/m1.jpg" alt="" width="500" height="450">
+<div style="display: block; margin: auto">
+	<img src="media/m1.jpg" alt="" width="500" height="450">
+</div>
 <br>
 En esta imagen se puede apreciar los dos componentes visibles de la terminal, el emulador de terminal está señalado en color rojo y es toda la ventana, y dentro de un emulador de terminal se pueden abrir procesos como la shell u otros programas y luego el mismo emulador de terminal conectará dicho proceso al stdin (standard input), stdout (standard output) y stderr (standard error), que es lo que llamamos descriptores de archivos. Cuando decimos que el emulador conecta el proceso a stdin, stdout y stderr puede sonar a chino básico, pero se puede entender como "el emulador le da al proceso el poder de lectura y escritura". Lo anterior significa que el proceso podrá ahora "escribir" que significa que podrá imprimir texto en la ventana del emulador, y "leer" que significa que podrá detectar las teclas que presiona el usuario a través del teclado.
 <br>
