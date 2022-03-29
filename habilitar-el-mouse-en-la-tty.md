@@ -1,5 +1,5 @@
 # Habilitar el mouse en la TTY
-<b>By: Darth Venom - 28/03/2022</b>
+<b>By: Darth Venom - 29/03/2022</b>
 <br>
 <br>
 Si eres un usuario de GNU/Linux que ha estudiado el sistema o ha explorado distribuciones enfocadas en la simpleza como Arch Linux, Gentoo o Slackware, seguramente te has topado o has interactuado con la TTY alguna vez.
@@ -16,7 +16,7 @@ Existe una solución para el problema de que la TTY no soporte el uso del mouse,
 <br>
 <center><b>PASOS DE INSTALACIÓN DE GPM</b></center>
 <br>
-El primer paso es [instalar el paquete] *gpm*. Posteriormente se debe configurar gpm, y para eso tenemos que abrir una shell con permisos de superusuario, para lo que usaremos el comando
+El primer paso es <a href="http://aminoapps.com/p/yc3te5">instalar el paquete</a> *gpm*. Posteriormente se debe configurar gpm, y para eso tenemos que abrir una shell con permisos de superusuario, para lo que usaremos el comando
 <br>
 ```
 sudo su
