@@ -4,6 +4,7 @@
 <br>
 En OpenSUSE y distribuciones derivadas el gestor de paquetes es Zypper. Al realizar operaciones de instalación con Zypper se actualiza de forma automática la base de datos de todos los repositorios, esto dependiendo del tamaño de la actualización y la cantidad de repositorios añadidos puede tardar más o menos, pero lo cierto es que mientras se actualiza la base de datos de cada repositorio se pierde tiempo y para muchos usuarios esto puede ser molesto.
 <br>
+<br>
 Para deshabilitar el auto-refresh o actualización automática se usa la operación modifyrepo, o su abreviación "mr", junto a la opción -F que es la que deshabilita el auto-refresh como en el siguiente ejemplo:
 <br>
 ```
