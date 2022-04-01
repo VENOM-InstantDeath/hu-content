@@ -11,6 +11,7 @@ Los blogs que se listan aquí son blogs que a la fecha no han sido publicados en
 	<li><a href="https://venom-instantdeath.github.io/hu-content/malware-definicion-y-tipos.html">Malware - Definición y tipos</a></li>
 	<li><a href="https://venom-instantdeath.github.io/hu-content/bash9.html">Bash De 0 a 1000 #9</a></li>
 	<li><a href="https://venom-instantdeath.github.io/hu-content/habilitar-el-mouse-en-la-tty.html">Habilitar el mouse en la TTY</a></li>
+	<li><a href="https://venom-instantdeath.github.io/hu-content/zypper-autorefresh.html">Zypper - Deshabilitar auto-refresh al instalar paquetes</a></li>
 </ol>
 <br>
 Lo siguiente es ajeno al índice. Es contenido descargable para gente con la que quiero compartir archivos o contenido.
